@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-out=$(bash ./hello.py)
+out=$(python ./hello.py)
 
 # we should check out == hello
 if [ "${out}" == "hello" ];then
