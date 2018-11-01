@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-print=(python ./hello.py)
+print=(python hello.py)
 
 # we should check out == hello
 if [ "print" == "hello" ];then
