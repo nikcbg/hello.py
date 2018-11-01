@@ -1,6 +1,6 @@
-# hello.python
+### hello.python
 
-# Explanantion
+### Explanantion
 Script that prints "hello"
 
 *hello.py - Scrip that prints 'hello'.
