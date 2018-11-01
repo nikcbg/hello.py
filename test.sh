@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-out=$(python ./hello.py)
+print=(python ./hello.py)
 
 # we should check out == hello
-if [ "${out}" == "hello" ];then
+if [ "print" == "hello" ];then
   echo "GOOD: test pass"
 else
   echo "BAD: test fail"
