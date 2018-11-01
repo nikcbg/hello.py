@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+#check hello file
 print=(python ./hello.py)
 
 # we should check out == hello
